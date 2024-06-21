@@ -14,11 +14,9 @@
 ## Skills
 
 - Python | Machine Learning | C | Django
-- 
+  
 
 ![irvincardoza's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=irvincardoza&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
-
-
 
 
 ⭐️ Feel free to star some of my repositories if you find them interesting!
