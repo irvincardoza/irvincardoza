@@ -2,29 +2,22 @@
 
 
 
-![irvincardoza's Streak](https://github-readme-streak-stats.herokuapp.com/?user=irvincardoza&theme=vue-dark&hide_border=true)
+![irvincardoza's Stats](https://github-readme-stats.vercel.app/api?username=irvincardoza&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ## Hi there, I'm Irvin Cardoza! 👋
 
 - 🎓 Artificial Intelligence and Computer Science student at Simon Fraser University, Canada.
 - 💻 Machine learning enthusiast, passionate about creating intelligent applications.
-- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/irvincardoza/).
+- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/irvin-cardoza-286b34281/).
 
 
 ## Skills
 
 - Python | Machine Learning | C | Django
+- 
 
-## Projects
+![irvincardoza's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=irvincardoza&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
-### [Project Name 1](link_to_project_1)
-Short description or overview of the project.
-
-### [Project Name 2](link_to_project_2)
-Short description or overview of the project.
-
-### [Project Name 3](link_to_project_3)
-Short description or overview of the project.
 
 
 
