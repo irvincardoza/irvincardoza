@@ -22,3 +22,27 @@
 ⭐️ Feel free to star some of my repositories if you find them interesting!
 
 </div>
+
+
+## Projects
+
+### 1. [Brain MRI tumor detection and segmentation](#)
+**Description**: Used U-Net and deeplearning to detect tumors and segment it using overlay colors.  
+
+**Tech Stack**: Python, Tensorflow, OpenCV
+
+**GitHub Repo**: [https://github.com/irvincardoza/brain-MRI-segmentation](#)
+
+---
+
+### 2. [Studetn Performace Prediction Model](#)
+**Description**: This project demonstrates a multivariable linear regression implementation to predict student performance based on many factors. 
+
+**Tech Stack**: Python, Numpy, Matplotlib 
+
+**GitHub Repo**: [https://github.com/irvincardoza/Machine-learning-projects/tree/main/multiVariable](#)
+
+---
+
+
+
