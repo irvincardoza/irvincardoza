@@ -26,7 +26,7 @@
 
 ## Projects
 
-### 1. [Brain MRI tumor detection and segmentation](#)
+### 1. [Brain MRI Tumor Detection and Segmentation](#)
 **Description**: Used U-Net and deeplearning to detect tumors and segment it using overlay colors.  
 
 **Tech Stack**: Python, Tensorflow, OpenCV
@@ -35,7 +35,7 @@
 
 ---
 
-### 2. [Studetn Performace Prediction Model](#)
+### 2. [Student Performace Prediction Model](#)
 **Description**: This project demonstrates a multivariable linear regression implementation to predict student performance based on many factors. 
 
 **Tech Stack**: Python, Numpy, Matplotlib 
