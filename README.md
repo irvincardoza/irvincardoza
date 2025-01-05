@@ -31,7 +31,7 @@
 
 **Tech Stack**: Python, Tensorflow, OpenCV
 
-**GitHub Repo**: [https://github.com/irvincardoza/brain-MRI-segmentation](#)
+**GitHub Repo**: [Link to project](https://github.com/irvincardoza/brain-MRI-segmentation)
 
 ---
 
@@ -40,7 +40,7 @@
 
 **Tech Stack**: Python, Numpy, Matplotlib 
 
-**GitHub Repo**: [https://github.com/irvincardoza/Machine-learning-projects/tree/main/multiVariable](#)
+**GitHub Repo**: [Link to project](https://github.com/irvincardoza/Machine-learning-projects/tree/main/multiVariable)
 
 ---
 
