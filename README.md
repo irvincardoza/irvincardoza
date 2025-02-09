@@ -47,7 +47,7 @@
 
 **Tech Stack**: Python, Matplotlib 
 
-**GitHub Repo**: [Link to project] (https://github.com/irvincardoza/K-means-algorithm-image-resize)
+**GitHub Repo**: [Link to project](https://github.com/irvincardoza/K-means-algorithm-image-resize)
 ---
 
 
