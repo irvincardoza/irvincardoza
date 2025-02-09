@@ -42,6 +42,8 @@
 
 **GitHub Repo**: [Link to project](https://github.com/irvincardoza/Machine-learning-projects/tree/main/multiVariable)
 
+---
+
 ### 3. [Using K - Means algorithm to compress Images](#)
 **Description**: This project demonstrates how the K-means clustering algorithm can be applied to image compression.
 
